@@ -29,7 +29,7 @@ of conclusions when we work on model building.
 ## Dataset Source
 "Top Streamers on Twitch (Dataset)" was taken from kaggle.com.
 
-Link 👇🏻
+Link 👉🏻
 https://www.kaggle.com/datasets/aayushmishra1512/twitchdata
 ## What was Done to Achieve Results
 1) First of all, data was understood, using Pandas.
